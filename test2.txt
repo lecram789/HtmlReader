@@ -1,23 +1,90 @@
-http://mediadb.kicker.de/2018/fussball/spieler/s/42271_15_20177311636284.jpg	Sommer
-http://mediadb.kicker.de/2018/fussball/spieler/s/85575_15_201773116367176.jpg	Oxford
-http://mediadb.kicker.de/2018/fussball/spieler/s/70990_15_201773116365313.jpg	Ginter
-http://mediadb.kicker.de/2018/fussball/spieler/s/65365_15_201773116363972.jpg	Vestergaard
-http://mediadb.kicker.de/2018/fussball/spieler/s/84365_15_201773116367129.jpg	Elvedi
-http://mediadb.kicker.de/2018/fussball/spieler/s/89361_15_201773116367539.jpg	Zakaria
-http://mediadb.kicker.de/2018/fussball/spieler/s/59163_15_201773116363604.jpg	Kramer
-http://mediadb.kicker.de/2018/fussball/spieler/s/68029_15_201773116364246.jpg	Hofmann
-http://mediadb.kicker.de/2018/fussball/spieler/s/74645_15_201773116365692.jpg	T. Hazard
-http://mediadb.kicker.de/2018/fussball/spieler/s/54727_15_201811212233459.jpg	Bobadilla
-http://mediadb.kicker.de/2018/fussball/spieler/s/39183_15_201773116361524.jpg	Stindl
-http://mediadb.kicker.de/2018/fussball/spieler/s/70409_17_20180202723.jpg	Batshuayi
-http://mediadb.kicker.de/2018/fussball/spieler/s/51275_17_2017814105012239.jpg	Schürrle
-http://mediadb.kicker.de/2018/fussball/spieler/s/43592_17_2017814105011175.jpg	M. Götze
-http://mediadb.kicker.de/2018/fussball/spieler/s/46429_17_2017814105011679.jpg	Reus
-http://mediadb.kicker.de/2018/fussball/spieler/s/34255_17_2017814105010118.jpg	Castro
-http://mediadb.kicker.de/2018/fussball/spieler/s/76799_17_2017814105015829.jpg	Weigl
-http://mediadb.kicker.de/2018/fussball/spieler/s/67127_17_2017121112522564.jpg	Toljan
-http://mediadb.kicker.de/2018/fussball/spieler/s/89356_17_20180119154.jpg	Akanji
-http://mediadb.kicker.de/2018/fussball/spieler/s/41817_17_2017814105010892.jpg	Sokratis
-http://mediadb.kicker.de/2018/fussball/spieler/s/39456_17_2017814105010714.jpg	Piszczek
-http://mediadb.kicker.de/2018/fussball/spieler/s/51641_17_2017814105012333.jpg	Bürki
-Read 114019 characters
+[
+	{ 
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/42271_15_20177311636284.jpg",
+		"name": "Sommer"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/85575_15_201773116367176.jpg",
+		"name": "Oxford"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/70990_15_201773116365313.jpg",
+		"name": "Ginter"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/65365_15_201773116363972.jpg",
+		"name": "Vestergaard"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/84365_15_201773116367129.jpg",
+		"name": "Elvedi"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/89361_15_201773116367539.jpg",
+		"name": "Zakaria"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/59163_15_201773116363604.jpg",
+		"name": "Kramer"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/68029_15_201773116364246.jpg",
+		"name": "Hofmann"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/74645_15_201773116365692.jpg",
+		"name": "T. Hazard"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/54727_15_201811212233459.jpg",
+		"name": "Bobadilla"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/39183_15_201773116361524.jpg",
+		"name": "Stindl"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/70409_17_20180202723.jpg",
+		"name": "Batshuayi"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/51275_17_2017814105012239.jpg",
+		"name": "Schürrle"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/43592_17_2017814105011175.jpg",
+		"name": "M. Götze"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/46429_17_2017814105011679.jpg",
+		"name": "Reus"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/34255_17_2017814105010118.jpg",
+		"name": "Castro"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/76799_17_2017814105015829.jpg",
+		"name": "Weigl"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/67127_17_2017121112522564.jpg",
+		"name": "Toljan"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/89356_17_20180119154.jpg",
+		"name": "Akanji"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/41817_17_2017814105010892.jpg",
+		"name": "Sokratis"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/39456_17_2017814105010714.jpg",
+		"name": "Piszczek"
+	},
+	{
+		"url": "http://mediadb.kicker.de/2018/fussball/spieler/s/51641_17_2017814105012333.jpg",
+		"name": "Bürki"
+	}
+]
